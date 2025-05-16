@@ -1,7 +1,7 @@
 
 # Zeno AI Code Reviewer
 
-🌐 [Live Site](https://peyush-nuwal-portfolio.vercel.app/)
+🌐 [Live Site](https://zeno-ai-orcin.vercel.app/)
 
 A modern, AI-powered code review interface built using Vite, React 19, Express.js, and Google Generative AI. Designed to provide real-time, context-aware code suggestions and reviews with a clean developer-friendly experience.
 
@@ -38,7 +38,7 @@ A modern, AI-powered code review interface built using Vite, React 19, Express.j
 ## 🎥 Demo
 
 Or view the live site:  
-🌐 [peyush-nuwal-portfolio.vercel.app](https://peyush-nuwal-portfolio.vercel.app/)
+🌐 [https://zeno-ai-orcin.vercel.app/](https://zeno-ai-orcin.vercel.app/)
 
 
 ## Screenshots
